@@ -4,6 +4,8 @@
 ![LGPD Compliance](https://img.shields.io/badge/Compliance-LGPD-green?style=for-the-badge)
 ![AI Assisted](https://img.shields.io/badge/AI-ChatGPT%20%7C%20Claude-blue?style=for-the-badge)
 
+## Link do Dash publicado: https://zxcortes.github.io/Dashboard_porshe_sales/
+
 ## 📊 Sobre o projeto
 
 O **Porsche Sales Intelligence** é um projeto de análise de dados desenvolvido no âmbito do curso **AI Reports da DIO (Digital Innovation One)**. O objetivo principal foi transformar uma base de dados de vendas de veículos Porsche em informações visuais e estratégicas para apoiar a tomada de decisões.
